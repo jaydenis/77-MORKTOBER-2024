@@ -1,0 +1,51 @@
+After a Misery
+Roll d6:
+1 - Place the least expensive Equipment card from your hand on to the into play
+2 - Place the least expensive Monster from your hand on to the battlefield
+3 - Place the least expensive Scvm from your hand on to the battlefield 
+4 - Destroy a random Equipment card 
+5 - Destroy a random Scvm
+6 - Destroy a random Monster
+
+
+After you <b>Attack</b> any monster:<br>
+<b>Crit</b> roll d4:
+<br>1 - Draw a Card
+<br>2 - Put a random card from your hand into play.
+<br>3 - Draw a random card from the Crypt.
+<br>4 - Destroy a random <b>Monster</b>
+<br><b>Fumble</b> roll d4:
+<br>1 - Destroy a random <b>Location</b>
+<br>2 - Destroy a random <b>Equipment</b> 
+<br>3 - Destroy a random <b>Scvm</b>
+<br>4 - Discard a random card your from your hand.
+
+The Dying Lands 7:7 Tour
+<br>5/31 Galgenbeck
+<br>7/31 Wastland
+<br>9/31 Schleswig
+<br>14/31 Valley of the Undead
+<br>17/31 Bergen Crypt w/ The Zombies
+<br>25/31 Kergus
+<br>28/31 Graven Tosk
+
+Whenever a Scvm or Monster is put into the crypt create a Zombie monster.
+<br><br>
+<b>Test DR14</b>:
+<br><b>Crit</b>: Destroy the Repentless Heretic
+<br><b>Pass</b>: Prevent the creation of the Zombie 
+<br><b>Fail</b>: Create one Zombie 
+<br><b>Fumble</b>: Create d4+1 Zombies
+<br><br>
+<b>Zombie</b><br>
+(HP: 2 | Attack: d2 | No Armor)
+
+
+Whenever a Scvm or Monster is put into the crypt
+<br>
+Roll d6:
+<br>1-2: Nothing
+<br>3-5: Create one Zombie
+<br>6: Create d2+2 Zombies
+<br><br>
+<b>Zombie</b> (HP: 2 | Attack: d2 | No Armor)

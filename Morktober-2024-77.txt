@@ -1,0 +1,35 @@
+MORKTOBER - 2024
+1 - SCUM - Skeleton - Skeleton of your Best Friend. of the thing from the rotted pumkin patch
+2 - WEAPON - Fangs - A club embeded with the 100's of fangs
+3 - WEAPON - Blade - Blade of the Undead - instantly kill 1 undead creature
+4 - ITEM - Rot - A jar of Rot Gut moonshine - d3 uses - grants +2 Attack/+2 Armor but causes d2 damage to a scum
+5 - SCROLL - Venom - One of your SCVM deals double damage this turn.
+5 - MONSTER - HP:6 Attack:d4 Armor:-d2 Black Venom - Black Venom is a traveling band of musicans that spred death through their music., If Black Venom damages a SCVM but does not kill them that SCVM will die unless they are healed by a minimum of 1 HP at the end of your turn.
+5 - MONSTER - HP:* Attack:d4 Armor:-d2 Black Venom - Black Venom is a traveling band of musicans that spread death through their music., Black Venom's HP is equal to the number of locations +d2. Black Venom can be added to you SCVM. 
+6 - ITEM/Power - Oracular - All test are DR10 - Roll 2d20: both pass double damage, one pass normal damage, both fail roll for misery if no misery roll again
+7 - ITEM - Pig - Pig Roast restore all of your Scum to max HP and place the top card of the deck on the misery pile
+8 - SCROLL - Tome - 
+9 - ITEM - Veil - Veil of Misery - While in possession of the Veil of Misery you may re-roll one misery. If a misery is prevented destroy one of your scum or most expensive item or a location. Then remove this card from the game. If the misery still happens you loose the game.
+10 - MONSTER - Bats - Spiked Bats, Bats Wrapped in Chain, Flaming Bats, Wood Bats, Steel Bats, Bone Bats
+11 - OMEN - Thirteen - if there are more than 13 cards in the graveyard you may return one to your hand
+12 - ARMOR -  Serpent - Crown of the Serpent King any monster that attacks you loses 1 hp per round
+13 - MONSTER - Chains - 
+14 - LOCATION - Tomb - 
+15 - ARMOR - Cuirass (Armor) - 
+16 - WEAPON - Knife - The Knife used by Jane the Stripper. Legend says that she got her name because she would strip the flesh from her still living victims 
+17 - ARMOR - Disguise - d2 uses - monsteres can attack you but they cannot damage you this turn
+17 - ARMOR - Disguise - 120s "Dead Skin Mask" - This disguise was made from a nameless and now faceless scvm. With this Dead Skin Mask monsters cannot attack you. using the 
+18 - LOCATION - Abyss - d2 silver - while here you may prevent one misery, if you do place upto d4 cards in play that you control into the graveyard
+19 - SCROLL - Burn - Can only be used on the Repentless Heretic. 
+20 - MONSTER - Wraith - Repentles Heretic - 
+21 - LOCATION - Mud - d8 you cannot leave here if there are monsters
+23 - OMEN - Vision - look at the top 3 cards:keep 1 put 1 on top & 1 on bottom
+23 - POWER - Fortune - Reroll 
+24 - POWER - Fear - Monsters cannot attack
+25 - LOCATION - Cipher
+26 - MONSTER - Flesh - "Flesh Storm" - when Flesh Storm dies it deals d4 damage to all Scum and Monsters
+27 - LOCATION - Cauldron - Comes into play return Scum from graveyard to play
+28 - POWER - Pact - All of your scum have d8 attack - one time use
+29 - LOCATION - 'Fools' Gold - d20x10 you DO NOT earn silver 
+30 - MONSTER - Smoke - "Repentless Flock", Roll d6+1 for HP, Only loses d2 hp when hit.,"At the time burning the bodies of the dead heretics was a good idea. "
+31 - LOCATION - Pumpkins - d12s comes into play put most expensive monster from your hand into play. if no monsters then draw cards until you draw a monster. Put it into paly.
