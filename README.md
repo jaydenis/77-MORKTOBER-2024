@@ -3,7 +3,7 @@ This is an expansion set for [7:7 A Dying Card Game](https://nacnudllah.itch.io/
 
 My itch.io page https://tech66.itch.io/morktober-2024-expansion
 
-This is for [MÖRKTOBER 20240](https://www.exeunt.press/morktober) to make something for [MÖRK BORG](https://morkborg.com/) inspired by a  prompt list
+This is for [MÖRKTOBER 2024](https://www.exeunt.press/morktober) to make something for [MÖRK BORG](https://morkborg.com/) inspired by a  prompt list
 
 I'm using these awesome tools:
   -  [CardMaker](https://github.com/nhmkdev/cardmaker) for the card layout/construction.
