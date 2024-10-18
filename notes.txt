@@ -10,19 +10,19 @@
 10 - Bats - Monster x4
 11 - Thirteen - Monster Boss
 12 - Serpent - Monster x2
-13 - Chains - 
+13 - Chains - Item - One Monster cannot attack
 14 - Tomb - Location
 15 - Cuirass - Armor
-16 - Knife - Weapon
+16 - Knife - Monster
 17 - Disguise - Item
 18 - Abyss - Location
 19 - Burn - 
-20 - Wraith - Monster x2
+20 - Wraith - Monster
 21 - Mud - Location
 23 - Vision - Omen
 23 - Fortune - Power
 24 - Fear - Scvm
-25 - Cipher - 
+25 - Cipher - Scvm
 26 - Flesh - Monster x4
 27 - Cauldron - Location
 28 - Pact - Power
